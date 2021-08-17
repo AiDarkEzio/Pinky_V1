@@ -1,15 +1,14 @@
 ## Thanks for Everything 
 ### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
+- [Subadra Bro](https://github.com/SubadraBro)
 
 <p align="center">
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/fork">
+  <a href="https://github.com/SubadraBro/Pinky_V1/fork">
     <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/stargazers">
+  <a href="https://github.com/SubadraBro/Pinky_V1/stargazers">
     <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
   </a>
   <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/commits/master">
@@ -18,27 +17,27 @@
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="https://github.com/SubadraBro/Pinky_V1">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="https://github.com/SubadraBro/Pinky_V1">
     <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
+  <a href="https://github.com/SubadraBro/Pinky_V1/LICENSE">
     <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="https://github.com/SubadraBro/Pinky_V1">
     <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
+  <a href="https://github.com/SubadraBro">
     <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
 
   </a>
-  <a href="https://t.me/asenaremaster">
+  <a href="https://t.me">
     <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
 
   </a>
@@ -112,7 +111,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SubadraBro/Pinky_V1)
 
 ### The Hard Method
 ```js
