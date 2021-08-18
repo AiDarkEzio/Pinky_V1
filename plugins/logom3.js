@@ -10,7 +10,7 @@ const Language = require('../language');
 
 const Lang = Language.getString('ttp');
 
-Asena.addCommand({pattern: 'logomenu3', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (async (message, match) => {    
+Asena.addCommand({pattern: 'logom3', fromMe: false, desc: Lang.TXTTOIMG_DESC}, (async (message, match) => {    
 
        
 
