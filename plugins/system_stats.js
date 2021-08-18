@@ -54,6 +54,7 @@ else if (Config.WORKTYPE == 'public') {
     Asena.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (async (message, match) => {
 
         if (Config.ALIVEMSG == 'default') {
+            await message.client.sendMessage(message.jid,'https://i.ibb.co/cvKvyzR/images-5.jpg' + Config.CHANNEL, MessageType.text);
             await message.client.sendMessage(message.jid,'```Tanrı Türk\'ü Korusun. 🐺 Asena Hizmetinde!```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Telegram Group:* https://t.me/AsenaSupport\n*Telegram Channel:* https://t.me/asenaremaster\n*Plugin Channel:* ' + Config.CHANNEL, MessageType.text);
         }
         else {
