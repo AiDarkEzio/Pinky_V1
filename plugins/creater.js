@@ -71,7 +71,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═PINKY Owner ═Dark Evil💥*\n\n*💘 https://github.com/*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/Figlet*    *\n\n⚜yt link to set bot:- https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ
+        r_text[1] = "*Git links*\n           *\n💥═PINKY Owner ═Dark Evil💥*\n\n*💘 https://github.com/*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/Figlet*    *\n\n⚜yt link to set bot:- https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ*"
     
 
         await message.client.sendMessage(
