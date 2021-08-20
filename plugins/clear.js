@@ -32,6 +32,6 @@ Asena.addCommand({pattern: 'cle', fromMe: true, desc: END, dontAddCommandList: t
 
     await message.client.modifyChat (message.jid, ChatModification.delete);
 
-    await message.sendMessage('```🏳 Chat cleared By SOPHIA BOT😊 🏳```');
+    await message.sendMessage('```🏳 Chat cleared By PINKY BOT😊 🏳```');
 
 }));
