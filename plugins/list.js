@@ -10,7 +10,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.im.ge/2021/07/21/aM3Bf.jpg";
+    r_text[0] = "https://i.ibb.co/QCq63J7/my-logo-2.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -19,7 +19,7 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦Pinky❤️⃝➤⃟̱̱̱̱̄̄̄̄𝕤𝕞𝕒𝕣𝕥 𝕓𝕠𝕥⛦
 💟𝗠𝗲         💠_𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙪𝙨𝙚𝙧 𝙗𝙤𝙩 
-💟𝗢𝘄𝗻𝗲𝗿  💠_*Pinkky Bot*
+💟𝗢𝘄𝗻𝗲𝗿  💠_*Dark Evil*
 💟𝗩𝗲𝗿𝘀𝗶𝗼𝗻💠_1.32 𝙂𝙡𝙤𝙗𝙡𝙚
 💟𝗛���𝘀𝘁𝗲𝗱 💠𝙃𝙚𝙧𝙤𝙠𝙪 
 ════════════════════
@@ -32,14 +32,13 @@ Asena.addCommand({pattern: 'list', fromMe: false, desc: Lang.WP}, (async (messag
         ✅_.apks
         ✅_.mmlogo
 ══════════════════
-➣:𝙉𝙀𝙀𝘿 𝙏𝙊 𝙈𝘼𝙆𝙀 𝘽𝙊𝙏 𝙇𝙄𝙆𝙀 𝘼𝙎 𝙈𝙀🥺
-⭕➣https://github.com/SubadraBro
+⭕➣https://github.com/SubadraBro/QueenAmdi
 ➣:𝙎𝙐𝘽𝙎𝘾𝙍𝙄𝘽𝙀 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇
 ⭕➣https://www.youtube.com/channel/UCeDeaDD8dpdMT2gO3VHY1JQ
 ➣:𝙈𝘼𝙄𝙉 𝙂𝙍𝙊𝙐𝙋𝙎
-⭕➣https://chat.whatsapp.com/I0r4gwOm1xgCrhdOGfa748
+⭕➣https://chat.whatsapp.com/Bud1dd31AueDpG1kpn2jnt
 ➣:𝙊𝙐𝙍 𝙀𝘿𝙐𝘾𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙂𝙍𝙊𝙐𝙋
-⭕➣
+⭕➣https://chat.whatsapp.com/I0r4gwOm1xgCrhdOGfa748
 ➣:𝙊𝙒𝙉𝙀𝙍
 ⭕➣https://wa.me/message/941539856
 ➣:𝘾𝙊𝘿𝙀𝘿 𝘽𝙔
