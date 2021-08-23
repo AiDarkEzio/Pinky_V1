@@ -4,7 +4,7 @@
 - [Subadra Bro](https://github.com/SubadraBro)
 
 <div align="center">
-  <img src="https://i.ibb.co/QCq63J7/my-logo-2.jpg" width="200" height="200">
+  <img src="https://i.dlpng.com/static/png/6724397_preview.png" width="200" height="200">
   <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
 </div>
 <p align="center">
