@@ -63,11 +63,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&repo=github-readme-stats&theme=outrun)](https://github.com/SubadraBro/Pinky_V1)
   
-</div>
-<div align="center">
-  <img src="https://i.ibb.co/QvJgY2K/Dark-EVillogo.jpg" width="200" height="200">
-  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
-</div>
 <p align="center">
 
 ```
@@ -102,6 +97,14 @@ Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
+  
+  </div>
+<div align="center">
+  <img src="https://i.ibb.co/QvJgY2K/Dark-EVillogo.jpg" width="200" height="200">
+  <h1>👩‍💻>↣Dark Evil↢<👨‍💻</h1>
+</div>
+<p align="center">
+  
 ----
 ## Setup
 ### Very Simple Method
