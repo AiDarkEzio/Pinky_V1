@@ -43,6 +43,22 @@
   </a>
 </p>
 
+<div align="center">
+  <img src="https://i.ibb.co/QCq63J7/my-logo-2.jpg" width="200" height="200">
+  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
+</div>
+<p align="center">
+    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    <br>
+        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
+        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <a href="https://t.me/asenaremaster">New Support Group</a> |
+        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+    <br>
+</p>
+
+----
+
 ```
 Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
 
@@ -75,23 +91,7 @@ Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
-
-<div align="center">
-  <img src="https://i.ibb.co/QCq63J7/my-logo-2.jpg" width="200" height="200">
-  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
-</div>
-<p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
-    <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
-    <br>
-</p>
-
 ----
-
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
