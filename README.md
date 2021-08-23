@@ -3,6 +3,20 @@
 
 - [Subadra Bro](https://github.com/SubadraBro)
 
+<div align="center">
+  <img src="https://i.ibb.co/QCq63J7/my-logo-2.jpg" width="200" height="200">
+  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
+</div>
+<p align="center">
+    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    <br>
+        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
+        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
+        <a href="https://t.me/asenaremaster">New Support Group</a> |
+        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+    <br>
+</p>
+
 <p align="center">
   <a href="https://github.com/SubadraBro/Pinky_V1/fork">
     <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
@@ -41,20 +55,6 @@
     <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
 
   </a>
-</p>
-
-<div align="center">
-  <img src="https://i.ibb.co/QCq63J7/my-logo-2.jpg" width="200" height="200">
-  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
-</div>
-<p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
-    <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
-    <br>
 </p>
 
 ----
