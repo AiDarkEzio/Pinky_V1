@@ -100,7 +100,7 @@ the user is responsible.
   
   </div>
 <div align="center">
-  <img src="https://i.ibb.co/QvJgY2K/Dark-EVillogo.jpg" width="200" height="200">
+  <img src="https://i.ibb.co/YXs2gMm/Dark-EVillogo-removebg-preview.png" width="200" height="200">
   <h1>👩‍💻>↣Dark Evil↢<👨‍💻</h1>
 </div>
 <p align="center">
