@@ -64,8 +64,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&repo=github-readme-stats&theme=outrun)](https://github.com/SubadraBro/Pinky_V1)
   
 </div>
-
-----
+<div align="center">
+  <img src="https://i.ibb.co/QvJgY2K/Dark-EVillogo.jpg" width="200" height="200">
+  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
+</div>
+<p align="center">
 
 ```
 Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
