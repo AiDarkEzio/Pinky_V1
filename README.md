@@ -1,19 +1,17 @@
-## Thanks for Everything 
-### We will always remember you..
-
-- [Subadra Bro](https://github.com/SubadraBro)
+<h1 align="center"><u><b> Wlcome Official Pinky Web Page </b></u></h1>
+<h3 align="center"> Thanks for Everything </h3>
 
 <div align="center">
-  <img src="https://i.dlpng.com/static/png/6724397_preview.png" width="200" height="200">
-  <h1>👩‍💻↣Pinky Bot↢👩‍💻</h1>
+  <img src="https://wallpaperaccess.com/full/3746815.jpg" width="200" height="200">
+  <h2>👩‍💻↣Pinky Bot↢👩‍💻</h2>
 </div>
 <p align="center">
-    WhatsAsena project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    Pinky Bot project - Makes it easy and fun to use Whatsapp. 
     <br>
-        <a href="https://t.me/WHATSASENA">Telegram Channel</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
+        <a href="https://t.me/">Telegram Channel</a> |
+        <a href="https://t.me/">Telegram Group</a> |
+        <a href="https://t.me/">New Support Group</a> |
+        <a href="https://t.me/">New Plugin Channel</a> |
     <br>
 </p>
 
@@ -60,11 +58,8 @@
 ----
 
 <div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&repo=github-readme-stats&theme=outrun)](https://github.com/SubadraBro/Pinky_V1)
-  
-<p align="center">
-
+<div>
 ```
 Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
 
@@ -97,27 +92,29 @@ Marketing WhatsAsena for money, making it available or having any material value
 ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
 the user is responsible.
 ```
-  
-  </div>
-<div align="center">
-  <img src="https://i.ibb.co/YXs2gMm/Dark-EVillogo-removebg-preview.png" width="200" height="200">
-  <h1>👩‍💻>↣Dark Evil↢<👨‍💻</h1>
-</div>
-<p align="center">
-  
-----
+
+## 📢 Guide
+> [Also for support & help please come our Telegram group.](https://t.me/) (comming soon)
+
+> [New support & help group.](https://t.me/) (Comming Soon)
+
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+
+## 🔎 What is WhatsAsena?
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and edited by [SubadraBro](https://github.com/Subadra Bro). Does not log into your account It is written on WhatsApp Web API.
+
 ## Setup
 ### Very Simple Method
 `Soon as Possible...`
 
 ### Simple Method
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@Subadrabro/Pinky-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SubadraBro/Pinky_V1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SubadraBro/Pinky_V2)
 
 ### The Hard Method
-```js
+```bash
 $ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
 $ cd WhatsAsenaDuplicated
 $ npm i
@@ -127,14 +124,27 @@ $ nano Config.env
 $ node bot.js
 ```
 
-##### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
+
+### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
 [![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
-## Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages?
+This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
 
-### ⚠️ Warning!
+### What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
+### Is it paid?
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Gmail](scienceposhitha@gmail.com) .
+
+### What does Asena mean?
+[Asena](https://tr.wikipedia.org/wiki/Asena), comes from Turkish mythology. According to Turkish mythology, Asena is a she-wolf that plays an important role.
+
+##
+
+### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
@@ -144,11 +154,24 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Sybadra bro](https://github.com/SubadraBro.png?size=100)]
----- |
-[Subadra Bro](https://t.me) |
-Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules, Idea | Modules
+[![SubadraBro](https://github.com/SubadraBro.png?size=100)]() |
+----|
+[Subadra Bro](scienceposhitha@gmail.com) |
+
+## Thanks To
+
+- [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
+- [@itacirgabral](https://github.com/itacirgabral) for helps
+- [@SubadraBro](https://github.com/SubadraBro) Command edit & Massage edit & Add new plugin
+- [@Unique_hunter](https://t.me/Unique_hunter) for helps and ideas
+
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+
+
+  
+  
