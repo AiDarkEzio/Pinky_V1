@@ -2,7 +2,7 @@
 <h3 align="center"> Thanks for Everything </h3>
 
 <div align="center">
-  <img src="" width="200" height="200">
+  <img src="img./V1.png" width="200" height="200">
   <h2>👩‍💻↣Pinky Bot↢👩‍💻</h2>
 </div>
 <p align="center">
