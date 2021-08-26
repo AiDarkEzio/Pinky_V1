@@ -55,11 +55,7 @@
   </a>
 </p>
 
-----
 
-<div align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SubadraBro&repo=github-readme-stats&theme=outrun)](https://github.com/SubadraBro/Pinky_V1)
-<div>
 ```
 Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
 
